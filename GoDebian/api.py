@@ -56,7 +56,7 @@ class GoDebianApi(object):
         """
         return self.preview % key
 
-    def get_url(self, key) -> str:
+    def get_url(self, key):
         """
         :param key: Enter the key to get associated URL
         Get key from following format : http://deb.li/p/<key>

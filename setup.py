@@ -27,6 +27,6 @@ setup(
         'Programming Language :: Python :: 3.4',
     ],
 
-    install_requires=['requests', 'json'],
-    long_description=open("README.md").read()
+    install_requires=['requests'],
+    long_description=open("README.rst").read()
 )
