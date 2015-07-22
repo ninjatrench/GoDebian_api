@@ -8,6 +8,13 @@
     :alt: Make In India <3
 
 
+Documentation and Wiki
+-------------
+Python client for go.debian.net and deb.li URL shortening service
+
+Full documentation is available at https://wiki.debian.org/deb.li
+
+
 Features
 --------
 
@@ -21,12 +28,6 @@ Features
 - Works with Python 2.6+ and 3.2+
 - No dependencies
 
-
-Documentation and Wiki
--------------
-Python client for go.debian.net and deb.li URL shortening service
-
-Full documentation is available at https://wiki.debian.org/deb.li
 
 Usage Examples
 --------------
