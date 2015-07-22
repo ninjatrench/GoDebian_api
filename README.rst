@@ -1,7 +1,9 @@
 .. image:: https://img.shields.io/badge/build-passing-green.svg
     :target: https://github.com/ninjatrench/GoDebian_api
+
 .. image:: https://img.shields.io/badge/version-dev-green.svg
     :target:https://github.com/ninjatrench/GoDebian_api
+
 .. image:: https://img.shields.io/badge/with%20love%20from-india-ff69b4.svg
     :alt: Make In India <3
 
