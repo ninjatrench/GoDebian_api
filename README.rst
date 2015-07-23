@@ -14,6 +14,17 @@ Python client for go.debian.net and deb.li URL shortening service
 
 Full documentation is available at https://wiki.debian.org/deb.li
 
+Installation
+-------------
+Python 2+
+.. code-block:: bash
+    sudo pip install GoDebian_api
+    
+Python 3+
+.. code-block:: bash
+    sudo pip3 install GoDebian_api
+
+sudo is optional (used for system wide installtion, not required while using virtualenv
 
 Features
 --------
