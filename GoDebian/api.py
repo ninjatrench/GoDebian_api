@@ -97,7 +97,7 @@ class GoDebianApi(object):
 
     def check_ip_white_list(self):
         try:
-        _ = self.add_url("http://www.debian.org")
+            _ = self.add_url("http://www.debian.org")
         except Exception as e:
             print("Exception occured")
             print(e)
